@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+main {
+    margin: 1rem;
+    min-height: calc(100vh - 128px);
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    height: 128px;
+}
